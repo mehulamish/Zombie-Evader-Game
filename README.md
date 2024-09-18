@@ -50,17 +50,21 @@
 ```plaintext
 zombie_evaders/
 │
-├── background.png         # Background image for the game
-├── soldier.png            # Player character (soldier) image
-├── enemy.png              # Zombie enemy image
-├── bullet.png             # Bullet image
-├── backgroundsound.mp3    # Background music
-└── zombie_evaders.py      # Main game script
+├── images/
+│   ├── background.png         # Background image for the game
+│   ├── soldier.png            # Player character (soldier) image
+│   ├── enemy.png              # Zombie enemy image
+│   ├── bullet.png             # Bullet image
+│   ├── backgroundsound.mp3    # Background music
+│   ├── Test image1.PNG        # Test image 1
+│   └── Test image2.PNG        # Test image 2
+└── zombie_evaders.py          # Main game script
+
 ```
 
 ## Dependencies
 
-- **Python 3.x**
+- **Python 3.8+**
 - **Pygame**: Install Pygame using `pip install pygame`.
 
 ## Future Improvements

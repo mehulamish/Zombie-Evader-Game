@@ -48,16 +48,14 @@
 ## Project Structure
 
 ```plaintext
-zombie_evaders/
-│
-├── images/
-│   ├── background.png         # Background image for the game
-│   ├── soldier.png            # Player character (soldier) image
-│   ├── enemy.png              # Zombie enemy image
-│   ├── bullet.png             # Bullet image
-│   ├── backgroundsound.mp3    # Background music
-│   ├── Test image1.PNG        # Test image 1
-│   └── Test image2.PNG        # Test image 2
+zombie-evader-game/
+│── background.png         # Background image for the game
+│── soldier.png            # Player character (soldier) image
+│── enemy.png              # Zombie enemy image
+│── bullet.png             # Bullet image
+│── backgroundsound.mp3    # Background music
+│── Test image1.PNG        # Test image 1
+│── Test image2.PNG        # Test image 2
 └── zombie_evaders.py          # Main game script
 
 ```
